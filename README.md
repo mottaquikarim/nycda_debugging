@@ -1,6 +1,6 @@
 # Debugging Practice
 
-This TodoList Express server has several intentional bugs. Using your terminal and any other method you find appropriate, find all the bugs.
+This TodoList Express server has several intentional bugs. In your terminal (or however you prefer), test all the API routes documented below to ensure that they work as expected. You should run into several bugs as you do this, correct them as needed.
 
 ## API Documentation
 
